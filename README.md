@@ -1,1 +1,1 @@
-## Learning golang with [a Tour of Go](https://tour.golang.org/welcome/1)
+## Learning golang with [Tour of Go](https://tour.golang.org/welcome/1)
